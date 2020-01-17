@@ -4,7 +4,6 @@ C:\Users\autim\Desktop\demoapp\bin\Debug\netcoreapp2.2\demoapp.runtimeconfig.dev
 C:\Users\autim\Desktop\demoapp\bin\Debug\netcoreapp2.2\demoapp.dll
 C:\Users\autim\Desktop\demoapp\bin\Debug\netcoreapp2.2\demoapp.pdb
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.csprojAssemblyReference.cache
-C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.csproj.CoreCompileInputs.cache
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.RazorAssemblyInfo.cache
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.RazorAssemblyInfo.cs
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@ C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.AssemblyInfo.cs
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.RazorTargetAssemblyInfo.cache
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.dll
 C:\Users\autim\Desktop\demoapp\obj\Debug\netcoreapp2.2\demoapp.pdb
+C:\Users\autim\Desktop\demoapp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\autim\Desktop\demoapp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\autim\Desktop\demoapp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
